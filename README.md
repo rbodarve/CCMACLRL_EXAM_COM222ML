@@ -1,1 +1,3 @@
-# HELLO! THIS IS FOR THE EXAM COMPONENT OF SUBJECT CCINSYSL
+# HELLO! 
+
+# This repository is for the exam files of CCINSYSL
